@@ -1,2 +1,2 @@
 # Github-actions
-practice of ci/cd
+practice and execute workflow results
