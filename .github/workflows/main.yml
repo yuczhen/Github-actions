@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       # Run
-      - uses: actions/checkout@4
+      - uses: actions/checkout@v4
       - name: run a one-line script
         run: echo Hello, world! 
 
